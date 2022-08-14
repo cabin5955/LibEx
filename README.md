@@ -15,8 +15,8 @@ Learnopengl.com学习整理和扩展出来的一个游戏库，目前仅支持iO
 2. 新建Xcode iOS工程
 3. 将LibEx导入Xcode工程
 4. 导入其他相关库，参见其他示例工程
-[超级马里奥 SuperMarioEx](https://github.com/cabin5955/SuperMarioEx)
-[德军总部3D Wolfenstein3dEx](https://github.com/cabin5955/Wolfenstein3dEx)
++	[超级马里奥 SuperMarioEx](https://github.com/cabin5955/SuperMarioEx)
++	[德军总部3D Wolfenstein3dEx](https://github.com/cabin5955/Wolfenstein3dEx)
 
 ### 作者
 作者：cabin5955
